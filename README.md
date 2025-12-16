@@ -22,7 +22,7 @@
   💻 I love writing code and learn anythings about it<br>
   💰 I'm currently learning how to build E-Commerce Website with Django<br>
   💬 Ask me anything about from <a href="https://github.com/faresfadly1/faresfadly1/issues">Here</a><br>
-  🎯 How to reach me: <a href="mailto:faresfadly@gmail.com">faresfadly@gmail.com</a>
+  🎯 How to reach me: <a href="mailto:fadlyfares0@gmail.com">faresfadly@gmail.com</a>
 </p>
 
 ---
