@@ -45,7 +45,13 @@
 
 <code>HTML</code> · <code>CSS</code> · <code>Flutter</code> · <code>Unity</code>
 
-### 🧰 Extended Toolbox
+<details>
+<summary>📦 <strong>Extended Toolbox</strong></summary>
+<br>
+
+<code>SAS</code> · <code>Jupyter</code> · <code>NLTK</code> · <code>Matplotlib</code> · <code>BeautifulSoup</code> · <code>Selenium</code> · <code>MovePy</code> · <code>Cisco Packet Tracer</code> · <code>UI/UX Design</code> · <code>Web Scraping</code> · <code>Data Pipelines</code>
+
+</details>
 
 ---
 
