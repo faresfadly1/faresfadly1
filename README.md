@@ -27,54 +27,44 @@
 
 ---
 
-<h2 align="center">💻 Core Tech Stack</h2>
+## 💻 Core Tech Stack
 
-<p align="left">
-  <strong>Languages</strong><br>
-  &nbsp;&nbsp;Python · JavaScript · Java · SQL
-</p>
+**Languages**
 
-<p align="left">
-  <strong>AI & Data</strong><br>
-  &nbsp;&nbsp;TensorFlow · Scikit-Learn · Pandas · NumPy · Power BI
-</p>
+&nbsp;&nbsp;Python · JavaScript · Java · SQL
 
-<p align="left">
-  <strong>Automation & Infrastructure</strong><br>
-  &nbsp;&nbsp;Flowise · n8n · Kafka · Docker · Git
-</p>
+**AI & Data**
 
-<p align="left">
-  <strong>Frontend & UX</strong><br>
-  &nbsp;&nbsp;HTML · CSS · Flutter · Unity
-</p>
+&nbsp;&nbsp;TensorFlow · Scikit-Learn · Pandas · NumPy · Power BI
 
-<p align="left">
-  🧰 <strong>Extended Toolbox</strong>
-</p>
+**Automation & Infrastructure**
+
+&nbsp;&nbsp;Flowise · n8n · Kafka · Docker · Git
+
+**Frontend & UX**
+
+&nbsp;&nbsp;HTML · CSS · Flutter · Unity
+
+### 🧰 Extended Toolbox
 
 ---
 
-<h2 align="center">🎯 Focus Areas</h2>
+## 🎯 Focus Areas
 
-<ul>
-  <li>🤖 AI-powered automation workflows with Flowise & n8n</li>
-  <li>💬 Conversational agents featuring voice interfaces and intelligent routing</li>
-  <li>📊 Data extraction pipelines for news, social, and enterprise knowledge bases</li>
-  <li>🎨 UI/UX design for AI-centric dashboards and decision support tools</li>
-  <li>🔒 Secure, scalable deployments for globally distributed teams</li>
-</ul>
+- 🤖 AI-powered automation workflows with Flowise & n8n
+- 💬 Conversational agents featuring voice interfaces and intelligent routing
+- 📊 Data extraction pipelines for news, social, and enterprise knowledge bases
+- 🎨 UI/UX design for AI-centric dashboards and decision support tools
+- 🔒 Secure, scalable deployments for globally distributed teams
 
 ---
 
-<h2 align="center">🚀 What I'm Building</h2>
+## 🚀 What I'm Building
 
-<ul>
-  <li>⚙️ Scaling Flowise + n8n pipelines that launch blog content, sync data, and alert stakeholders automatically.</li>
-  <li>🗣️ Experimenting with multi-modal chat experiences that blend voice, text, and live retrieval for richer conversations.</li>
-  <li>🧠 Iterating on data extraction bots to keep YouTube, Google News, and LinkedIn dashboards fresh with actionable insights.</li>
-  <li>👨‍💻 Crafting interface concepts for AI copilots that feel intuitive, responsive, and human-friendly.</li>
-</ul>
+- ⚙️ Scaling Flowise + n8n pipelines that launch blog content, sync data, and alert stakeholders automatically.
+- 🗣️ Experimenting with multi-modal chat experiences that blend voice, text, and live retrieval for richer conversations.
+- 🧠 Iterating on data extraction bots to keep YouTube, Google News, and LinkedIn dashboards fresh with actionable insights.
+- 👨‍💻 Crafting interface concepts for AI copilots that feel intuitive, responsive, and human-friendly.
 
 ---
 
