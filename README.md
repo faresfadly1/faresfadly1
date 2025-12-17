@@ -21,8 +21,7 @@
   🎓 I'm currently studying for my Bachelor at Ostim Teknik University, Department of Software Engineering<br>
   💻 I love writing code and learn anythings about it<br>
   💰 I'm currently learning how to build E-Commerce Website with Django<br>
-  💬 Ask me anything about from <a href="https://github.com/faresfadly1/faresfadly1/issues">Here</a><br>
-  🎯 How to reach me: <a href="mailto:fadlyfares0@gmail.com">faresfadly@gmail.com</a>
+  🎯 How to reach me: <a href="mailto:fadlyfares0@gmail.com">fadlyfares0@gmail.com</a>
 </p>
 
 ---
