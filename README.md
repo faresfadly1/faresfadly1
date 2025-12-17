@@ -74,6 +74,15 @@
 
 ---
 
+## 🏅 Certifications
+
+- Cisco – Introduction to Cybersecurity (2023-2024)
+- Cisco – Python Essentials 1 (June 2025)
+- DataCamp – Data Engineering Track (2024)
+- DataCamp – AI Fundamentals (January 2025)
+
+---
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <p align="center">
