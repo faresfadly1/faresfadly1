@@ -27,6 +27,55 @@
 
 ---
 
+<h2 align="center">💻 Core Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  Python · JavaScript · Java · SQL
+</p>
+
+<h3 align="center">AI & Data</h3>
+<p align="center">
+  TensorFlow · Scikit-Learn · Pandas · NumPy · Power BI
+</p>
+
+<h3 align="center">Automation & Infrastructure</h3>
+<p align="center">
+  Flowise · n8n · Kafka · Docker · Git
+</p>
+
+<h3 align="center">Frontend & UX</h3>
+<p align="center">
+  HTML · CSS · Flutter · Unity
+</p>
+
+<h3 align="center">🧰 Extended Toolbox</h3>
+
+---
+
+<h2 align="center">🎯 Focus Areas</h2>
+
+<p align="center">
+  🤖 AI-powered automation workflows with Flowise & n8n<br>
+  💬 Conversational agents featuring voice interfaces and intelligent routing<br>
+  📊 Data extraction pipelines for news, social, and enterprise knowledge bases<br>
+  🎨 UI/UX design for AI-centric dashboards and decision support tools<br>
+  🔒 Secure, scalable deployments for globally distributed teams
+</p>
+
+---
+
+<h2 align="center">🚀 What I'm Building</h2>
+
+<p align="center">
+  ⚙️ Scaling Flowise + n8n pipelines that launch blog content, sync data, and alert stakeholders automatically.<br>
+  🗣️ Experimenting with multi-modal chat experiences that blend voice, text, and live retrieval for richer conversations.<br>
+  🧠 Iterating on data extraction bots to keep YouTube, Google News, and LinkedIn dashboards fresh with actionable insights.<br>
+  👨‍💻 Crafting interface concepts for AI copilots that feel intuitive, responsive, and human-friendly.
+</p>
+
+---
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <p align="center">
