@@ -31,19 +31,19 @@
 
 **Languages**
 
-&nbsp;&nbsp;Python · JavaScript · Java · SQL
+<code>Python</code> · <code>JavaScript</code> · <code>Java</code> · <code>SQL</code>
 
 **AI & Data**
 
-&nbsp;&nbsp;TensorFlow · Scikit-Learn · Pandas · NumPy · Power BI
+<code>TensorFlow</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>NumPy</code> · <code>Power BI</code>
 
 **Automation & Infrastructure**
 
-&nbsp;&nbsp;Flowise · n8n · Kafka · Docker · Git
+<code>Flowise</code> · <code>n8n</code> · <code>Kafka</code> · <code>Docker</code> · <code>Git</code>
 
 **Frontend & UX**
 
-&nbsp;&nbsp;HTML · CSS · Flutter · Unity
+<code>HTML</code> · <code>CSS</code> · <code>Flutter</code> · <code>Unity</code>
 
 ### 🧰 Extended Toolbox
 
